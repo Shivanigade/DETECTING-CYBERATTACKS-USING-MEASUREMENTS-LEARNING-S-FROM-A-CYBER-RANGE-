@@ -1,0 +1,32 @@
+Detecting Cyber Attacks through Measurements: Learnings from a Cyber Range
+
+
+
+IEEE Instrumentation & Measurement Magazine,Volume:25,Issue:6,Issue Date:September.2022
+
+Detecting_Cyber_Attacks
+
+
+detecting_cyber_attacks
+
+
+Members
+-------
+
+rid	
+datetime	
+host	
+src	
+proto	
+type	
+spt	
+dpt	
+srcstr	
+cc	
+country	
+locale	
+latitude	
+longitude
+Prediction
+
+
